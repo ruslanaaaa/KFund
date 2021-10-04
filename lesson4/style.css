@@ -1,0 +1,59 @@
+/* .yellow{
+    color: yellow;
+    font-weight: 400;
+}
+
+.shadow{
+    box-shadow: 7px 7px 20px 7px;
+    border: 1px;
+    width: 500px;
+    height: 400px;
+    background-color: rgba(105, 82, 209, 0.747);
+}
+
+.button{
+    background-color: thistle;
+    font-size: 40PX;
+    padding: 20px;
+} */
+
+.cell1{
+   border: 1px black solid;
+   width: 500px;
+   height: 900px;
+   border-radius: 1%;
+}
+
+.cell2{
+    border: 1px black solid;
+    width: 1200px;
+    border-radius: 1%;
+}
+
+.NAME1{
+        text-align: center;
+}
+
+.button{
+    background-color: thistle;
+    font-size: 40PX;
+    padding: 15px;
+    border-radius: 10%;
+    list-style-type: none;
+    border-bottom: 1px solid #000;
+}
+
+.button1{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+img:hover{
+    color: cadetblue;
+}
