@@ -1,0 +1,9 @@
+.cell{
+    border-left: royalblue 10px solid;
+    padding: 20px; 
+}
+
+.cell:hover{
+    border-left: rgb(225, 65, 73) 10px solid;
+    transition: 1s;
+}
