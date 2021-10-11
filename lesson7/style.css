@@ -1,0 +1,63 @@
+/* space-beetwen */
+/* space-around */
+/* flex-wrap; wrap-nowrap*/
+/* alighn self */
+/* order 1 */
+.header{
+background-color: grey;
+border: solid black 1px;
+}
+
+.container{
+    width: 1170px;
+    margin: 0 auto
+}    
+.title{
+    text-align: center;
+    color: white;
+}
+
+.header_iner{
+    background-color: black;
+}
+
+.cell{
+    list-style: none;
+}
+
+.one{
+    background-color: wheat;
+    width: 25%;
+}
+
+
+
+.second{
+    background-color: thistle;
+    width: 75%;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.img{
+    width: 400px;
+}
+
+.main_iner{
+    justify-content:flex-start;
+    border: solid red 5px;
+}
+.footer{
+    border: solid black 1px;
+    background-color: grey;
+}
+
+
+.title1{
+    text-align: center;
+}
+.text3{
+    text-align: center;
+}
